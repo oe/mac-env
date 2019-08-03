@@ -9,3 +9,7 @@ wget -O mac-installer.sh "https://github.com/evecalm/mac-env/raw/master/mac-inst
 ## Thanks to
 
 - [Inquirer.sh](https://github.com/tanhauhau/Inquirer.sh)
+
+
+## Other Similar tools
+- [macOS setup script for front-end development](https://github.com/minamarkham/formation)
