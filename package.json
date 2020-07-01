@@ -1,0 +1,21 @@
+{
+  "name": "mac-env",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oe/mac-env.git",
+  "author": "Saiya <okarl@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.9.5"
+  },
+  "dependencies": {
+    "@types/react": "^16.9.41",
+    "@types/react-dom": "^16.9.8",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
